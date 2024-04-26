@@ -10,6 +10,10 @@ export default function Home() {
             name={"Dice Rolling Game"}
             href={"dice-rolling-game"}
           />
+          <MyButton
+            name={"Mouse Over Color Animation"}
+            href={"mouse-over-color-animation"}
+          />
         </div>
       </div>
     </>
