@@ -7,8 +7,8 @@ export default function Home() {
         <h1 className="text-3xl font-bold">Projects</h1>
         <div className="h-full w-full rounded-lg border border-black flex gap-2 p-2">
           <MyButton
-            name={"Dice"}
-            href={"/"}
+            name={"Dice Rolling Game"}
+            href={"dice-rolling-game"}
           />
         </div>
       </div>
