@@ -14,6 +14,10 @@ export default function Home() {
             name={"Mouse Over Color Animation"}
             href={"mouse-over-color-animation"}
           />
+          <MyButton
+            name={"Fylo Dark Theme Landing Page"}
+            href={"fylo-dark-theme-landing-page"}
+          />
         </div>
       </div>
     </>
