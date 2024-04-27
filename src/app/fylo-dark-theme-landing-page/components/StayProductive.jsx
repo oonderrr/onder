@@ -35,7 +35,7 @@ function StayProductive() {
             type={"button"}
             className="w-max flex items-center gap-1 text-fylo-cyan-inside-call-to-action-gradient border-b border-fylo-cyan-inside-call-to-action-gradient"
           >
-            See how Fylo works <Image src={arrow} />
+            See how Fylo works <Image src={arrow} alt={"arrow"} quality={100}/>
           </button>
         </div>
       </div>
