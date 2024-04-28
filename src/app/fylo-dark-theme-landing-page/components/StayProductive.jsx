@@ -1,6 +1,6 @@
 import stay from "/src/app/fylo-dark-theme-landing-page/ui/images/illustration-stay-productive.png";
 import Image from "next/image";
-import { raleway } from "@/src/fonts/fonts";
+import {raleway} from "@/src/fonts/fonts";
 import arrow from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-arrow.svg";
 
 function StayProductive() {
@@ -35,7 +35,12 @@ function StayProductive() {
             type={"button"}
             className="w-max flex items-center gap-1 text-fylo-cyan-inside-call-to-action-gradient border-b border-fylo-cyan-inside-call-to-action-gradient"
           >
-            See how Fylo works <Image src={arrow} alt={"arrow"} quality={100}/>
+            See how Fylo works{" "}
+            <Image
+              src={arrow}
+              alt={"arrow"}
+              quality={100}
+            />
           </button>
         </div>
       </div>
