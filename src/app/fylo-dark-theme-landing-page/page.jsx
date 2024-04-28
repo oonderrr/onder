@@ -2,6 +2,7 @@ import Header from "@/src/app/fylo-dark-theme-landing-page/components/Header";
 import HeroSection from "@/src/app/fylo-dark-theme-landing-page/components/HeroSection";
 import FeaturesSection from "@/src/app/fylo-dark-theme-landing-page/components/FeaturesSection/FeaturesSection";
 import StayProductive from "@/src/app/fylo-dark-theme-landing-page/components/StayProductive";
+import Quotes from "@/src/app/fylo-dark-theme-landing-page/components/Quotes/Quotes";
 
 function FyloDarkThemeLandingPage() {
   return (
@@ -11,6 +12,7 @@ function FyloDarkThemeLandingPage() {
         <HeroSection />
         <FeaturesSection />
         <StayProductive />
+        <Quotes />
       </div>
     </>
   );
