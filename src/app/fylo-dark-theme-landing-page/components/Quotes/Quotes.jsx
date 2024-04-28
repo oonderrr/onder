@@ -8,12 +8,11 @@ function Quotes() {
     <>
       <div className="mt-24">
         <Image
-          className="z-0"
           src={quout}
           alt={"quout"}
           quality={100}
         />
-        <div className="px-7 lg:px-16 flex flex-col md:flex-row gap-8">
+        <div className="px-7 md:px-16 flex flex-col lg:flex-row gap-8">
           {Persons.map((index) => {
             return (
               <Card
