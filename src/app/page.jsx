@@ -1,6 +1,3 @@
-import MyButton from "@/src/components/MyButton";
-import Image from "next/image";
-import onder from "/src/app/ui/img-onder.jpg";
 import LayoutSidebar from "@/src/app/components/LayoutSidebar";
 import LayoutMain from "@/src/app/components/LayoutMain";
 
