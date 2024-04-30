@@ -10,7 +10,7 @@ function LayoutMain() {
             Hi 👋, I'm Önder <hr className="mt-1" />
           </h2>
 
-          <div className="flex text-sm">
+          <div className="flex text-xs sm:text-sm">
             <p>🌱 I’m currently learning</p> &nbsp;
             <p className="font-bold">React, Next.js.</p>
           </div>
