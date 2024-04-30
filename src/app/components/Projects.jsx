@@ -3,7 +3,7 @@ import {ProjectsDB} from "@/src/app/components/ProjectsDB";
 function Projects() {
   return (
     <>
-      <div className="w-full xl:w-[896px] grid lg:grid-cols-2 gap-4 mt-6">
+      <div className="w-full xl:w-[896px] grid lg:grid-cols-2 gap-4 mt-6 mb-8">
         {ProjectsDB.map((project) => {
           return (
             <div

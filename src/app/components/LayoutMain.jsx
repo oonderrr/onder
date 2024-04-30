@@ -3,7 +3,7 @@ import Projects from "@/src/app/components/Projects";
 function LayoutMain() {
   return (
     <>
-      <div className="w-full">
+      <div className="w-full h-max">
         <div className="w-full xl:w-[896px] h-[441px] rounded-md border border-gray-300 p-6 flex flex-col flex-initial justify-between">
           <p className="text-xs font-mono">oonderrr/README.md</p>
           <h2 className="font-medium text-2xl">
