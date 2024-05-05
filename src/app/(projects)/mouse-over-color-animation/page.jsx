@@ -1,5 +1,4 @@
 "use client";
-import MyButton from "@/src/components/MyButton";
 import { useState } from "react";
 
 function MouseOverColorAnimation() {

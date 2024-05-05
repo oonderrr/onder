@@ -4,7 +4,7 @@ function Projects() {
   return (
     <>
       <div className="w-full xl:w-[896px] mt-6 mb-8">
-        <h2 className="text-lg font-light">Projects</h2>
+        <h2 className="text-lg font-light opacity-70">Projects</h2>
         <div className="w-full xl:w-[896px] grid lg:grid-cols-2 gap-4">
           {ProjectsDB.map((project) => {
             return (

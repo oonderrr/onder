@@ -1,5 +1,4 @@
 "use client";
-import MyButton from "@/src/components/MyButton";
 import Image from "next/image";
 import {useEffect, useState} from "react";
 import dice1 from "/src/app/(projects)/dice-rolling-game/img/dice1.png";
