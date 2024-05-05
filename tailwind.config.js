@@ -7,6 +7,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      gridTemplateColumns: {
+        // Simple 16 column grid
+        16: "repeat(16, minmax(0, 1fr))",
+      },
       colors: {
         HTML: "#d25735",
         CSS: "#523e78",
@@ -14,12 +18,6 @@ module.exports = {
         Tailwind: "#38bdf8",
         React: "#499cc6",
         NextJS: "#000000",
-      },
-      gridTemplateColumns: {
-        // Simple 16 column grid
-        16: "repeat(16, minmax(0, 1fr))",
-      },
-      colors: {
         "fylo-dark-blue-email-background": "hsl(217, 28%, 15%)",
         "fylo-dark-blue-main-background": "hsl(218, 28%, 13%)",
         "fylo-dark-blue-footer-background": "hsl(216, 53%, 9%)",
