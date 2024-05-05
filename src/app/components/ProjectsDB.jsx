@@ -44,4 +44,13 @@ export const ProjectsDB = [
     language2: "Tailwind",
     color2: "bg-Tailwind",
   },
+  {
+    id: 6,
+    name: "Fylo Dark Theme Landing Page",
+    href: "/fylo-dark-theme-landing-page",
+    language1: "NextJS",
+    color1: "bg-NextJS",
+    language2: "Tailwind",
+    color2: "bg-Tailwind",
+  },
 ];
