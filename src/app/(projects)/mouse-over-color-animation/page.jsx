@@ -35,10 +35,6 @@ function MouseOverColorAnimation() {
             );
           })}
         </div>
-        <MyButton
-          href={"/"}
-          name={"Back to Home"}
-        />
       </div>
     </>
   );

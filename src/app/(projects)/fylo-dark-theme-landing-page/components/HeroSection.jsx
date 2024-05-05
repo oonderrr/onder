@@ -1,5 +1,5 @@
 import Image from "next/image";
-import imagePic from "/src/app/fylo-dark-theme-landing-page/ui/images/illustration-intro.png"
+import imagePic from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/illustration-intro.png"
 import {raleway} from "@/src/fonts/fonts";
 
 function HeroSection() {

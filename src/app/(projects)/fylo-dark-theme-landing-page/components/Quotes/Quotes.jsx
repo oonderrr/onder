@@ -1,7 +1,7 @@
-import Card from "@/src/app/fylo-dark-theme-landing-page/components/Quotes/Card";
+import Card from "@/src/app/(projects)/fylo-dark-theme-landing-page/components/Quotes/Card";
 import Image from "next/image";
-import quout from "/src/app/fylo-dark-theme-landing-page/ui/images/bg-quotes.png";
-import { Persons } from "@/src/app/fylo-dark-theme-landing-page/components/Quotes/persons";
+import quout from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/bg-quotes.png";
+import { Persons } from "@/src/app/(projects)/fylo-dark-theme-landing-page/components/Quotes/persons";
 
 function Quotes() {
   return (

@@ -1,4 +1,4 @@
-import logo from "/src/app/fylo-dark-theme-landing-page/ui/images/logo.svg";
+import logo from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/logo.svg";
 import Link from "next/link";
 import Image from "next/image";
 import { raleway } from "@/src/fonts/fonts";

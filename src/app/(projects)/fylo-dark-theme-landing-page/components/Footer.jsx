@@ -1,8 +1,8 @@
 import Image from "next/image";
-import logo from "/src/app/fylo-dark-theme-landing-page/ui/images/logo.svg";
-import locationIcon from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-location.svg";
-import phoneIcon from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-phone.svg";
-import mailIcon from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-email.svg";
+import logo from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/logo.svg";
+import locationIcon from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/icon-location.svg";
+import phoneIcon from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/icon-phone.svg";
+import mailIcon from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/icon-email.svg";
 
 function Footer() {
   return (

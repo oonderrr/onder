@@ -1,7 +1,7 @@
-import image1 from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-access-anywhere.svg";
-import image2 from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-security.svg";
-import image3 from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-collaboration.svg";
-import image4 from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-any-file.svg";
+import image1 from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/icon-access-anywhere.svg";
+import image2 from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/icon-security.svg";
+import image3 from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/icon-collaboration.svg";
+import image4 from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/icon-any-file.svg";
 
 export const Items = [
   {

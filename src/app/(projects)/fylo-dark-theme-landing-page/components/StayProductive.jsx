@@ -1,7 +1,7 @@
-import stay from "/src/app/fylo-dark-theme-landing-page/ui/images/illustration-stay-productive.png";
+import stay from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/illustration-stay-productive.png";
 import Image from "next/image";
 import {raleway} from "@/src/fonts/fonts";
-import arrow from "/src/app/fylo-dark-theme-landing-page/ui/images/icon-arrow.svg";
+import arrow from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/icon-arrow.svg";
 
 function StayProductive() {
   return (

@@ -1,6 +1,6 @@
-import person1 from "/src/app/fylo-dark-theme-landing-page/ui/images/profile-1.jpg";
-import person2 from "/src/app/fylo-dark-theme-landing-page/ui/images/profile-2.jpg";
-import person3 from "/src/app/fylo-dark-theme-landing-page/ui/images/profile-3.jpg";
+import person1 from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/profile-1.jpg";
+import person2 from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/profile-2.jpg";
+import person3 from "/src/app/(projects)/fylo-dark-theme-landing-page/ui/images/profile-3.jpg";
 
 export const Persons = [
   {

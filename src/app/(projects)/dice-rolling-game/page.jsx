@@ -1,14 +1,14 @@
 "use client";
 import MyButton from "@/src/components/MyButton";
 import Image from "next/image";
-import { useEffect, useState } from "react";
-import dice1 from "/src/app/dice-rolling-game/img/dice1.png";
-import dice2 from "/src/app/dice-rolling-game/img/dice2.png";
-import dice3 from "/src/app/dice-rolling-game/img/dice3.png";
-import dice4 from "/src/app/dice-rolling-game/img/dice4.png";
-import dice5 from "/src/app/dice-rolling-game/img/dice5.png";
-import dice6 from "/src/app/dice-rolling-game/img/dice6.png";
-import diceStart from "/src/app/dice-rolling-game/img/dicestart.png";
+import {useEffect, useState} from "react";
+import dice1 from "/src/app/(projects)/dice-rolling-game/img/dice1.png";
+import dice2 from "/src/app/(projects)/dice-rolling-game/img/dice2.png";
+import dice3 from "/src/app/(projects)/dice-rolling-game/img/dice3.png";
+import dice4 from "/src/app/(projects)/dice-rolling-game/img/dice4.png";
+import dice5 from "/src/app/(projects)/dice-rolling-game/img/dice5.png";
+import dice6 from "/src/app/(projects)/dice-rolling-game/img/dice6.png";
+import diceStart from "/src/app/(projects)/dice-rolling-game/img/dicestart.png";
 
 function DiceRollingGame() {
   const [playerOneName, setPlayerOneName] = useState("Player One");
@@ -122,10 +122,6 @@ function DiceRollingGame() {
             />
           </div>
         </div>
-        <MyButton
-          href={"/"}
-          name={"Back to Home"}
-        />
       </div>
     </>
   );
