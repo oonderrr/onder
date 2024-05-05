@@ -98,7 +98,7 @@ function LayoutSidebar() {
           </div>
         </div>
 
-        <div className="mt-6 text-gray-600 fill-gray-600 hidden md:block">
+        <div className="mt-7 text-gray-600 fill-gray-600 hidden md:flex flex-col gap-1">
           <div className="flex gap-2">
             <svg
               className="size-4"
