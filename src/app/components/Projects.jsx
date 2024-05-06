@@ -29,7 +29,7 @@ function Projects() {
                   </div>
 
                   <a
-                    className="hover:underline text-xs font-bold text-start flex"
+                    className="hover:underline text-xs font-bold text-start flex gap-0.5"
                     href={project.href}
                     target="_blank"
                     rel="noreferrer"
